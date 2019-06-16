@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BASILISCO
-subtitle: Equipo
+subtitle: Equipo de trabajo
 ---
 
 ### Junta Directiva
