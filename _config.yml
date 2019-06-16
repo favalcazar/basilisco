@@ -72,8 +72,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 # rss: true
-  email: "ae.fs@ucr.ac.cr"
-  facebook: ASOFILOUCR
+# email: "ae.fs@ucr.ac.cr"
+# facebook: ASOFILOUCR
 # github: daattali
 # twitter: daattali
 # reddit: yourname
@@ -81,10 +81,10 @@ social-network-links:
 # xing: yourname
 # stackoverflow: "3943160/daattali"
 # snapchat: deanat78
-  instagram: aef.ucr
-  youtube: channel/UCfLmJ9S_CL5OTZFon6rrilg
+# instagram: aef.ucr
+# youtube: channel/UCfLmJ9S_CL5OTZFon6rrilg
 # spotify: yourname
-  telephone: +50625117277
+# telephone: +50625117277
 # steam: deanat78
 # twitch: yourname
 # yelp: yourname
