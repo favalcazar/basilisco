@@ -17,7 +17,7 @@ baseurl: "/basilisco"
 title: BASILISCO
 
 # Short description of your site
-description: Partido estudiantil de Filosofía
+# description: Partido estudiantil de Filosofía
 
 # --- Navigation bar options --- #
 
@@ -42,9 +42,9 @@ avatar: "/img/favicon2.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-col: "#A22C29"
+navbar-text-col: "#0A100D"
+navbar-children-col: "#D6D5C9"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
