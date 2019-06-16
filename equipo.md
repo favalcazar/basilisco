@@ -9,7 +9,7 @@ subtitle: Equipo de trabajo
 * **Presidente:** Fabián Alcázar (Filosofía)
 * **Vicepresidenta:** Meilyn Schildknecht (Filosofía y Enseñanza del Castellano)
 * **Secretaria:** Mariana Gamboa (Filosofía y Veterinaria)
-* **Tesorera:** Allison Vargas (Filosofía y Administracion de Empresas)
+* **Tesorera:** Allison Vargas (Filosofía y Administracion Pública)
 * **Fiscal:** Tomás Mora (Filosofía y Psicología)
 * **Representante ante C.S.E.:** James Dinarte (Filosofía y Filología Española)
 * **Suplente del representante:** Jorge Araya (Enseñanza de la Filosofía)
