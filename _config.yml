@@ -71,7 +71,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+# rss: true
   email: "ae.fs@ucr.ac.cr"
   facebook: ASOFILOUCR
 # github: daattali
@@ -84,7 +84,7 @@ social-network-links:
   instagram: aef.ucr
   youtube: channel/UCfLmJ9S_CL5OTZFon6rrilg
 #  spotify: yourname
-  telephone: +50625117277
+#  telephone: +50625117277
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
