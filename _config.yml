@@ -23,7 +23,7 @@ description: Partido estudiantil
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre el equipo: "aboutme"
+  Sobre el equipo: "equipo"
   Recursos:
     - Programa de Praxis: "https://drive.google.com/open?id=1J4lxbxYe_1RK2G6B2Fyg3CX-qIGY4QLf"
     - Programa de Prosperitas: "https://drive.google.com/open?id=1IEDZq_NTiq2bxJ0Fmt6DdkjtgjaEvbEf"
